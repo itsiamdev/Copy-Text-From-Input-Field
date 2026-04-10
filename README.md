@@ -9,7 +9,7 @@ A simple and elegant web application that allows you to copy text from input fie
 - 📱 Mobile-friendly interface
 
 ## 🌐 Live Demo
-Check out the live demo: [https://iam269.github.io/Copy-Text-From-Input-Field/](https://iam269.github.io/Copy-Text-From-Input-Field/)
+Check out the live demo: [https://itsiamdev.github.io/Copy-Text-From-Input-Field/](https://itsiamdev.github.io/Copy-Text-From-Input-Field/)
 
 ## 🛠️ Technologies Used
 - HTML5
